@@ -4,13 +4,13 @@ This project is a solution to the "Introducing Conditional Statements" challenge
 
 ## Project Overview
 
-The "Star Trek Quiz" is an interactive web application that presents users with questions about the Star Trek universe. The application uses SweetAlert2 popups with radio buttons to allow users to select answers. Based on the user's selection, the application provides immediate feedback on whether the answer is correct or not.
+The "Star Trek Quiz" is an interactive web application that presents users with questions about the Star Trek universe. The application uses SweetAlert2 popups with radio buttons to allow users to select answers. Based on the user's selection, the application provides feedback on how the user performed during the quiz which includes informing the user how many questions they got correct, a rank based on their score and it lists any incorrect answers in a table.
 
 Key features of the project:
 
 - Questions are presented using SweetAlert2 popups with radio buttons for multiple-choice answers.
 - The application logs to the console whether the user's answer is correct or not.
-- Users receive immediate feedback on their quiz performance.
+- Users receive a report on their quiz performance once the quiz is completed.
 
 ## Conditional Statements
 
