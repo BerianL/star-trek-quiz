@@ -1,7 +1,5 @@
 # Star Trek Quiz with SweetAlerts
 
-![Screenshot](screenshot.png) <!-- Add a screenshot of your webpage -->
-
 This project is a solution to the "Introducing Conditional Statements" challenge in the JavaScript Basics course on Teamtreehouse.com. The challenge was to create a quiz application that prompts the user with a question and logs to the console whether the answer is correct or not. In this project, I've adapted the challenge to use SweetAlert2 and DaisyUI for a better user experience by providing multiple-choice options and feedback.
 
 ## Project Overview
